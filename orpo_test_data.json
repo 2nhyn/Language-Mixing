@@ -1,0 +1,1473 @@
+[
+    {
+      "input": "Summarize this: 'Regular exposure to natural light can improve mood, increase productivity, and regulate sleep patterns.'",
+      "chosen": "Natural light boosts mood, productivity, and supports healthy sleep.",
+      "rejected": "자연광 improves mood and helps 슬립 schedule.",
+      "preferred": 1,
+      "input_lang": "en",
+      "expected_lang": "en",
+      "task": "summary"
+    },
+    {
+      "input": "Traduce esta frase al francés: 'A balanced diet provides the nutrients your body needs to function properly.'",
+      "chosen": "Une alimentation équilibrée fournit les nutriments nécessaires au bon fonctionnement du corps.",
+      "rejected": "Une balanced diet donne les nutrients que ton corps need.",
+      "preferred": 1,
+      "input_lang": "es",
+      "expected_lang": "fr",
+      "task": "translation"
+    },
+    {
+      "input": "요약해줘: 재택근무는 유연성을 높이고 통근 시간을 줄여 업무 만족도를 높일 수 있지만, 고립감을 느끼거나 소통에 어려움이 있을 수 있다.",
+      "chosen": "재택근무는 유연성과 만족도를 높이지만, 고립과 소통의 어려움이 있다.",
+      "rejected": "Remote work은 flexible하고 좋지만 sometimes 외로울 수 있어.",
+      "preferred": 1,
+      "input_lang": "ko",
+      "expected_lang": "ko",
+      "task": "summary"
+    },
+    {
+      "input": "Translate into English: 'Leer regularmente mejora la concentración y expande el vocabulario.'",
+      "chosen": "Reading regularly improves concentration and expands vocabulary.",
+      "rejected": "To read regularly mejora focus y vocabulary.",
+      "preferred": 1,
+      "input_lang": "es",
+      "expected_lang": "en",
+      "task": "translation"
+    },
+    {
+      "input": "Summarize this text: 'Frequent handwashing with soap significantly reduces the spread of infectious diseases.'",
+      "chosen": "Handwashing with soap reduces the spread of diseases.",
+      "rejected": "세균을 막으려면 soap으로 자주 손 씻기 is helpful.",
+      "preferred": 1,
+      "input_lang": "en",
+      "expected_lang": "en",
+      "task": "summary"
+    },
+    {
+      "input": "¿Cuál es el principal beneficio de la energía solar?",
+      "chosen": "La energía solar es una fuente limpia y renovable que reduce la dependencia de combustibles fósiles.",
+      "rejected": "Solar energy es muy clean y no usa combustibles fósiles muchos.",
+      "preferred": 1,
+      "input_lang": "es",
+      "expected_lang": "es",
+      "task": "single_language_qa"
+    },
+    {
+      "input": "Translate into Korean: 'Exercising regularly can help prevent chronic diseases and improve overall well-being.'",
+      "chosen": "규칙적인 운동은 만성 질환을 예방하고 전반적인 건강을 향상시킬 수 있다.",
+      "rejected": "Regular 운동은 disease도 막고 기분도 좋아지게 함.",
+      "preferred": 1,
+      "input_lang": "en",
+      "expected_lang": "ko",
+      "task": "translation"
+    },
+    {
+      "input": "Summarize: 'Vaccination has been proven to be one of the most effective methods to prevent infectious diseases.'",
+      "chosen": "Vaccination effectively prevents infectious diseases.",
+      "rejected": "백신은 infectious disease를 막는 데 very good.",
+      "preferred": 1,
+      "input_lang": "en",
+      "expected_lang": "en",
+      "task": "summary"
+    },
+    {
+      "input": "Translate this sentence into Chinese: 'Reducing plastic use can help protect ocean ecosystems.'",
+      "chosen": "减少塑料使用有助于保护海洋生态系统。",
+      "rejected": "Using less plastic 会 protect 海洋生态。",
+      "preferred": 1,
+      "input_lang": "en",
+      "expected_lang": "zh",
+      "task": "translation"
+    },
+    {
+      "input": "Was ist der Zweck von Recycling?",
+      "chosen": "Recycling reduziert Abfall, spart Ressourcen und schützt die Umwelt.",
+      "rejected": "Recycling hilft mit 환경과 자원 절약 together.",
+      "preferred": 1,
+      "input_lang": "de",
+      "expected_lang": "de",
+      "task": "single_language_qa"
+    },
+    {
+        "input": "What is the main function of red blood cells?",
+        "chosen": "Red blood cells transport oxygen from the lungs to the rest of the body.",
+        "rejected": "Red blood cells carry 산소 to 몸 all around.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "지구가 자전하는 데 걸리는 시간은?",
+        "chosen": "지구는 자전하는 데 약 24시간이 걸린다.",
+        "rejected": "It takes 지구 about 24시간 to rotate.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "¿Cuál es el órgano responsable de bombear la sangre?",
+        "chosen": "El corazón es el órgano que bombea la sangre por todo el cuerpo.",
+        "rejected": "El heart bombea la sangre a través del cuerpo.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "请问水在常压下的沸点是多少？",
+        "chosen": "水在常压下的沸点是100摄氏度。",
+        "rejected": "Water 的 boiling point 是100 degrees under normal pressure。",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Was ist die Hauptstadt von Österreich?",
+        "chosen": "Die Hauptstadt von Österreich ist Wien.",
+        "rejected": "Die Hauptstadt von Austria ist Wien, it's bekannt for classical music.",
+        "preferred": 1,
+        "input_lang": "de",
+        "expected_lang": "de",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "What gas do plants absorb during photosynthesis?",
+        "chosen": "Plants absorb carbon dioxide during photosynthesis.",
+        "rejected": "식물 absorb CO2 when doing photosynthesis.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "태양은 어떤 종류의 별인가요?",
+        "chosen": "태양은 G형 주계열성, 즉 노란색 왜성이다.",
+        "rejected": "태양은 G-type main sequence 별이다. It's pretty average.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "¿Cuál es el idioma oficial de Brasil?",
+        "chosen": "El idioma oficial de Brasil es el portugués.",
+        "rejected": "Brasil speaks portugués, not español.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "地球上最丰富的气体是什么？",
+        "chosen": "地球大气中最丰富的气体是氮气。",
+        "rejected": "Most common gas 是 nitrogen 在 atmosphere 中。",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Wie viele Kontinente gibt es auf der Erde?",
+        "chosen": "Es gibt sieben Kontinente auf der Erde.",
+        "rejected": "There are sieben Kontinente auf der world.",
+        "preferred": 1,
+        "input_lang": "de",
+        "expected_lang": "de",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize this text: 'Global warming leads to rising sea levels, extreme weather events, and disruptions to ecosystems worldwide.'",
+        "chosen": "Global warming causes sea level rise, extreme weather, and ecological disruption.",
+        "rejected": "지구온난화 causes higher sea levels and messed up ecosystems.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "Translate into Korean: 'Artificial intelligence is transforming industries by automating tasks and enhancing data analysis.'",
+        "chosen": "인공지능은 업무 자동화와 데이터 분석 향상을 통해 산업을 변화시키고 있다.",
+        "rejected": "AI는 산업을 바꾸고 있어 by automating tasks and 분석을 better하게 만들어줌.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "ko",
+        "task": "translation"
+    },
+    {
+        "input": "请翻译这句话：'Exercise can boost mood and reduce the risk of chronic diseases.'",
+        "chosen": "锻炼可以提升情绪并降低慢性疾病的风险。",
+        "rejected": "锻炼会 boost 心情并且 lower health risks。",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "translation"
+    },
+    {
+        "input": "¿Cuál es la función principal del sistema inmunológico?",
+        "chosen": "La función principal del sistema inmunológico es proteger el cuerpo contra infecciones.",
+        "rejected": "El sistema inmunológico fights infections para proteger tu cuerpo.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "요약해줘: 독서 습관은 사고력 향상, 어휘력 확장, 스트레스 감소 등 다양한 이점을 제공한다.",
+        "chosen": "독서는 사고력과 어휘력을 키우고 스트레스를 줄여준다.",
+        "rejected": "독서는 stress도 줄이고 your vocab도 향상된다.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "Translate this into German: 'Clean water is essential for health and hygiene.'",
+        "chosen": "Sauberes Wasser ist für Gesundheit und Hygiene unerlässlich.",
+        "rejected": "Cleanes Wasser ist wichtig für Hygiene und Gesundheit.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "de",
+        "task": "translation"
+    },
+    {
+        "input": "What is the capital of Canada?",
+        "chosen": "The capital of Canada is Ottawa.",
+        "rejected": "캐나다의 수도는 Ottawa야. It’s pretty cold there.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Bitte fassen Sie diesen Text zusammen: 'Klimawandel wirkt sich auf das Wetter, die Landwirtschaft und die Biodiversität aus.'",
+        "chosen": "Der Klimawandel beeinflusst Wetter, Landwirtschaft und Biodiversität.",
+        "rejected": "Climate change affects Wetter und farming.",
+        "preferred": 1,
+        "input_lang": "de",
+        "expected_lang": "de",
+        "task": "summary"
+    },
+    {
+        "input": "Translate into French: 'Reading regularly improves brain function and focus.'",
+        "chosen": "Lire régulièrement améliore la fonction cérébrale et la concentration.",
+        "rejected": "Reading souvent aide à la concentration et brain work.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "fr",
+        "task": "translation"
+    },
+    {
+        "input": "지구에서 가장 큰 사막은 어디인가요?",
+        "chosen": "지구에서 가장 큰 사막은 남극 대륙이다.",
+        "rejected": "Biggest desert는 Antarctica야. 놀랍지?",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "请总结以下内容：绿色能源如太阳能和风能可以减少温室气体排放，改善空气质量。",
+        "chosen": "绿色能源能减少排放并改善空气质量。",
+        "rejected": "Renewable energy helps 降低 emissions 和 improves air quality。",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    },
+    {
+        "input": "¿Cómo ayuda la educación a reducir la pobreza?",
+        "chosen": "La educación proporciona habilidades y oportunidades que permiten salir de la pobreza.",
+        "rejected": "Educación gives people skills para salir de la pobreza.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize this: 'Climate policies can influence global markets and innovation trends in the energy sector.'",
+        "chosen": "Climate policies affect markets and energy innovation.",
+        "rejected": "정책 about 기후 can affect innovation in 에너지 시장.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "Translate this into Spanish: 'Public transportation helps reduce traffic congestion and air pollution.'",
+        "chosen": "El transporte público ayuda a reducir la congestión del tráfico y la contaminación del aire.",
+        "rejected": "Transporte público reduce traffic y también contaminación.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "es",
+        "task": "translation"
+    },
+    {
+        "input": "¿Cuál es el elemento más abundante en el universo?",
+        "chosen": "El elemento más abundante en el universo es el hidrógeno.",
+        "rejected": "El most común element is hidrógeno.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize this: 'Electric vehicles are gaining popularity due to lower emissions and advances in battery technology.'",
+        "chosen": "EVs are popular for low emissions and better batteries.",
+        "rejected": "전기차는 인기 많아 because 배터리 발전하고 친환경적이니까.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "Translate to Chinese: 'A healthy diet includes a variety of fruits, vegetables, and whole grains.'",
+        "chosen": "健康的饮食应包括各种水果、蔬菜和全谷物。",
+        "rejected": "健康饮食要吃 fruits, veggies 和 whole grains.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "zh",
+        "task": "translation"
+    },
+    {
+        "input": "지구의 대기는 어떤 기체들로 구성되어 있나요?",
+        "chosen": "지구 대기는 주로 질소, 산소, 아르곤, 이산화탄소로 구성된다.",
+        "rejected": "공기는 mostly nitrogen, oxygen, 그리고 기타 stuff로 구성됨.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate this sentence into German: 'Regular sleep supports cognitive performance and emotional regulation.'",
+        "chosen": "Regelmäßiger Schlaf unterstützt die kognitive Leistung und die emotionale Regulation.",
+        "rejected": "Schlafen regulär helps mit Emotion und thinking performance.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "de",
+        "task": "translation"
+    },
+    {
+        "input": "请问植物如何进行光合作用？",
+        "chosen": "植物通过叶绿素吸收阳光，并将二氧化碳和水转化为葡萄糖和氧气。",
+        "rejected": "Photosynthesis 是植物用光和 CO2 to make 음식的过程。",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize this: 'Photosynthesis converts sunlight into chemical energy that plants use for growth and development.'",
+        "chosen": "Photosynthesis turns sunlight into energy for plant growth.",
+        "rejected": "光合作用是植物将阳光转化为能量的过程。",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "Translate this sentence into Korean: 'The economy is expected to grow by 3% this year due to strong consumer spending.'",
+        "chosen": "소비 증가로 올해 경제는 3% 성장할 것으로 예상된다.",
+        "rejected": "L’économie devrait croître de 3 % grâce à la consommation.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "ko",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 대기 오염은 호흡기 질환의 주요 원인이며, 어린이와 노인에게 특히 해롭다.",
+        "chosen": "대기 오염은 호흡기 질환을 유발하며 노약자에게 위험하다.",
+        "rejected": "Air pollution is bad for old people and kids, 매우 harmful해요.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "Traduce esta oración al inglés: 'La biodiversidad es esencial para el equilibrio ecológico.'",
+        "chosen": "Biodiversity is essential for ecological balance.",
+        "rejected": "La biodiversité est essentielle à l'équilibre écologique.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "What is the purpose of the United Nations?",
+        "chosen": "The United Nations aims to maintain international peace and promote human rights.",
+        "rejected": "유엔은 세계 평화를 유지하고 인권을 증진하기 위한 조직이다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "请总结这段话：网络安全对于保护用户数据和防止黑客攻击至关重要。",
+        "chosen": "网络安全能保护数据并防止攻击。",
+        "rejected": "Cybersecurity helps protect data and prevents 해킹으로부터의 공격.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    },
+    {
+        "input": "Translate into Spanish: 'Eating plenty of vegetables can reduce the risk of heart disease.'",
+        "chosen": "Comer muchas verduras puede reducir el riesgo de enfermedades cardíacas.",
+        "rejected": "많은 채소를 먹으면 심장병 위험이 줄어듭니다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "es",
+        "task": "translation"
+    },
+    {
+        "input": "Explain the role of mitochondria in a cell.",
+        "chosen": "Mitochondria generate energy for the cell through cellular respiration.",
+        "rejected": "Mitochondrien wandeln Sauerstoff und Zucker in Energie um.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize this: 'Regular sleep improves memory consolidation and emotional regulation.'",
+        "chosen": "Regular sleep supports memory and emotional balance.",
+        "rejected": "수면은 정서적 안정과 기억력 향상에 도움이 됩니다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "请将这句话翻译成英文：'气候变化正在影响全球的天气模式。'",
+        "chosen": "Climate change is affecting global weather patterns.",
+        "rejected": "Le changement climatique modifie les schémas météorologiques mondiaux.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 꾸준한 운동은 심장 건강을 향상시키고 체중 조절에도 도움이 된다.",
+        "chosen": "운동은 심장을 튼튼하게 하고 체중을 관리해준다.",
+        "rejected": "Regular exercise improves the heart and weight control.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "¿Qué hace un telescopio?",
+        "chosen": "Un telescopio permite observar objetos lejanos, como estrellas y planetas.",
+        "rejected": "望远镜能帮助我们看到遥远的星星和行星。",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate this into German: 'Solar energy is clean and renewable.'",
+        "chosen": "Solarenergie ist sauber und erneuerbar.",
+        "rejected": "에너지는 청정하고 다시 쓸 수 있어요.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "de",
+        "task": "translation"
+    },
+    {
+        "input": "Summarize this text: 'Vaccines stimulate the immune system to recognize and combat pathogens effectively.'",
+        "chosen": "Vaccines train the immune system to fight pathogens.",
+        "rejected": "Les vaccins aident le système immunitaire à se défendre.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "请问太阳的主要成分是什么？",
+        "chosen": "太阳主要由氢和氦组成。",
+        "rejected": "The sun mostly consists of hydrogen and helium.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into French: 'Education empowers individuals and promotes societal progress.'",
+        "chosen": "L'éducation donne du pouvoir aux individus et favorise le progrès social.",
+        "rejected": "교육은 개인을 강화하고 사회 발전을 촉진합니다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "fr",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 소셜미디어는 사람들을 연결하지만, 과도한 사용은 정신 건강에 부정적인 영향을 줄 수 있다.",
+        "chosen": "소셜미디어는 연결성을 높이지만 과도하면 해롭다.",
+        "rejected": "Social media connects people but also causes 정신건강 문제 sometimes.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "What gas is most abundant in Earth's atmosphere?",
+        "chosen": "Nitrogen is the most abundant gas in Earth's atmosphere.",
+        "rejected": "La mayoría del aire está compuesto de nitrógeno.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate this sentence into Chinese: 'Global trade connects markets and increases access to goods.'",
+        "chosen": "全球贸易连接市场，增加商品的获取渠道。",
+        "rejected": "Le commerce mondial relie les marchés et améliore l'accès aux produits.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "zh",
+        "task": "translation"
+    },
+    {
+        "input": "请总结以下内容：阅读可以增强理解力，扩展词汇，并提升写作技能。",
+        "chosen": "阅读能提升理解、词汇和写作能力。",
+        "rejected": "Reading improves your brain and writing skills.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    },
+
+    {
+        "input": "Summarize this: 'Photosynthesis converts sunlight into chemical energy that plants use for growth and development.'",
+        "chosen": "Photosynthesis turns sunlight into energy for plant growth.",
+        "rejected": "光合作用是植物将阳光转化为能量的过程.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "Translate this sentence into Korean: 'The economy is expected to grow by 3% this year due to strong consumer spending.'",
+        "chosen": "소비 증가로 올해 경제는 3% 성장할 것으로 예상된다.",
+        "rejected": "L’économie devrait croître de 3 % grâce à la consommation.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "ko",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 대기 오염은 호흡기 질환의 주요 원인이며, 어린이와 노인에게 특히 해롭다.",
+        "chosen": "대기 오염은 호흡기 질환을 유발하며 노약자에게 위험하다.",
+        "rejected": "Air pollution is bad for old people and kids, 매우 harmful해요.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "Traduce esta oración al inglés: 'La biodiversidad es esencial para el equilibrio ecológico.'",
+        "chosen": "Biodiversity is essential for ecological balance.",
+        "rejected": "La biodiversité est essentielle à l'équilibre écologique.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "What is the purpose of the United Nations?",
+        "chosen": "The United Nations aims to maintain international peace and promote human rights.",
+        "rejected": "유엔은 세계 평화를 유지하고 인권을 증진하기 위한 조직이다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "请总结这段话：网络安全对于保护用户数据和防止黑客攻击至关重要。",
+        "chosen": "网络安全能保护数据并防止攻击.",
+        "rejected": "Cybersecurity helps protect data and prevents 해킹으로부터의 공격.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    },
+    {
+        "input": "Translate into Spanish: 'Eating plenty of vegetables can reduce the risk of heart disease.'",
+        "chosen": "Comer muchas verduras puede reducir el riesgo de enfermedades cardíacas.",
+        "rejected": "많은 채소를 먹으면 심장병 위험이 줄어듭니다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "es",
+        "task": "translation"
+    },
+    {
+        "input": "Explain the role of mitochondria in a cell.",
+        "chosen": "Mitochondria generate energy for the cell through cellular respiration.",
+        "rejected": "Mitochondrien wandeln Sauerstoff und Zucker in Energie um.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize this: 'Regular sleep improves memory consolidation and emotional regulation.'",
+        "chosen": "Regular sleep supports memory and emotional balance.",
+        "rejected": "수면은 정서적 안정과 기억력 향상에 도움이 됩니다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "请将这句话翻译成英文：'气候变化正在影响全球的天气模式。'",
+        "chosen": "Climate change is affecting global weather patterns.",
+        "rejected": "Le changement climatique modifie les schémas météorologiques mondiaux.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 꾸준한 운동은 심장 건강을 향상시키고 체중 조절에도 도움이 된다.",
+        "chosen": "운동은 심장을 튼튼하게 하고 체중을 관리해준다.",
+        "rejected": "Regular exercise improves the heart and weight control.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "¿Qué hace un telescopio?",
+        "chosen": "Un telescopio permite observar objetos lejanos, como estrellas y planetas.",
+        "rejected": "望远镜能帮助我们看到遥远的星星和行星.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate this into German: 'Solar energy is clean and renewable.'",
+        "chosen": "Solarenergie ist sauber und erneuerbar.",
+        "rejected": "에너지는 청정하고 다시 쓸 수 있어요.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "de",
+        "task": "translation"
+    },
+    {
+        "input": "Summarize this text: 'Vaccines stimulate the immune system to recognize and combat pathogens effectively.'",
+        "chosen": "Vaccines train the immune system to fight pathogens.",
+        "rejected": "Les vaccins aident le système immunitaire à se défendre.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "请问太阳的主要成分是什么？",
+        "chosen": "太阳主要由氢和氦组成.",
+        "rejected": "The sun mostly consists of hydrogen and helium.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into French: 'Education empowers individuals and promotes societal progress.'",
+        "chosen": "L'éducation donne du pouvoir aux individus et favorise le progrès social.",
+        "rejected": "교육은 개인을 강화하고 사회 발전을 촉진합니다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "fr",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 소셜미디어는 사람들을 연결하지만, 과도한 사용은 정신 건강에 부정적인 영향을 줄 수 있다.",
+        "chosen": "소셜미디어는 연결성을 높이지만 과도하면 해롭다.",
+        "rejected": "Social media connects people but also causes 정신건강 문제 sometimes.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "What gas is most abundant in Earth's atmosphere?",
+        "chosen": "Nitrogen is the most abundant gas in Earth's atmosphere.",
+        "rejected": "La mayoría del aire está compuesto de nitrógeno.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Explica el papel de los océanos en el clima global.",
+        "chosen": "Los océanos regulan el clima al absorber y distribuir calor.",
+        "rejected": "Oceans control the weather and make it hot or cold.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize: 'Artificial intelligence can automate tasks but raises ethical concerns.'",
+        "chosen": "AI automates tasks but poses ethical challenges.",
+        "rejected": "인공지능은 일을 자동화하지만 윤리적 문제를 일으킨다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "请翻译：'他每天早上都跑步.'",
+        "chosen": "He runs every morning.",
+        "rejected": "Il court tous les matins.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "Was ist die Hauptstadt von Frankreich?",
+        "chosen": "Die Hauptstadt von Frankreich ist Paris.",
+        "rejected": "The capital of France is Paris.",
+        "preferred": 1,
+        "input_lang": "de",
+        "expected_lang": "de",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into Japanese: 'She loves reading books in her free time.'",
+        "chosen": "彼女は自由な時間に本を読むのが大好きです.",
+        "rejected": "Elle adore lire des livres pendant son temps libre.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "ja",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 물은 생명체의 필수 요소이며, 지구상의 모든 생물은 물에 의존한다.",
+        "chosen": "물은 모든 생명체의 생존에 필수적이다.",
+        "rejected": "Water is important for all living things.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "What is the function of red blood cells?",
+        "chosen": "Red blood cells transport oxygen throughout the body.",
+        "rejected": "Les globules rouges transportent l'oxygène dans le corps.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Traduce al español: 'The cat is sleeping on the sofa.'",
+        "chosen": "El gato está durmiendo en el sofá.",
+        "rejected": "Le chat dort sur le canapé.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "es",
+        "task": "translation"
+    },
+    {
+        "input": "请总结这段话：量子计算机利用量子比特进行计算，比经典计算机更快。",
+        "chosen": "量子计算机通过量子比特实现更快速计算.",
+        "rejected": "Quantum computers use qubits to compute faster than classical computers.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    },
+    {
+        "input": "Explain the concept of gravity.",
+        "chosen": "Gravity is a force that attracts objects with mass toward each other.",
+        "rejected": "중력은 물체를 서로 끌어당기는 힘이다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into French: 'She always arrives on time.'",
+        "chosen": "Elle arrive toujours à l'heure.",
+        "rejected": "Sie kommt immer pünktlich.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "fr",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 태양계는 태양과 그 주위를 도는 행성들로 이루어져 있다.",
+        "chosen": "태양계는 태양과 행성들로 구성된다.",
+        "rejected": "The solar system includes the sun and planets.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "¿Qué es la fotosíntesis?",
+        "chosen": "La fotosíntesis es el proceso por el cual las plantas convierten la luz solar en energía.",
+        "rejected": "Photosynthesis is how plants turn sunlight into energy.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize: 'Electric cars reduce carbon emissions compared to gasoline vehicles.'",
+        "chosen": "Electric cars emit less carbon than gasoline cars.",
+        "rejected": "전기차는 휘발유차보다 탄소 배출이 적다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "Explain the importance of bees in ecosystems.",
+        "chosen": "Bees are crucial pollinators that help plants reproduce and maintain biodiversity.",
+        "rejected": "Les abeilles sont importantes pour l'écosystème car elles aident les plantes à grandir.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "请翻译：'他每天早上都跑步.'",
+        "chosen": "He runs every morning.",
+        "rejected": "Il court tous les matins.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "Was ist die Hauptstadt von Frankreich?",
+        "chosen": "Die Hauptstadt von Frankreich ist Paris.",
+        "rejected": "The capital of France is Paris.",
+        "preferred": 1,
+        "input_lang": "de",
+        "expected_lang": "de",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into Japanese: 'She loves reading books in her free time.'",
+        "chosen": "彼女は自由な時間に本を読むのが大好きです.",
+        "rejected": "Elle adore lire des livres pendant son temps libre.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "ja",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 물은 생명체의 필수 요소이며, 지구상의 모든 생물은 물에 의존한다.",
+        "chosen": "물은 모든 생명체의 생존에 필수적이다.",
+        "rejected": "Water is important for all living things.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "What is the function of red blood cells?",
+        "chosen": "Red blood cells transport oxygen throughout the body.",
+        "rejected": "Les globules rouges transportent l'oxygène dans le corps.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Traduce al español: 'The cat is sleeping on the sofa.'",
+        "chosen": "El gato está durmiendo en el sofá.",
+        "rejected": "Le chat dort sur le canapé.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "es",
+        "task": "translation"
+    },
+    {
+        "input": "请总结这段话：量子计算机利用量子比特进行计算，比经典计算机更快。",
+        "chosen": "量子计算机通过量子比特实现更快速计算.",
+        "rejected": "Quantum computers use qubits to compute faster than classical computers.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    },
+    {
+        "input": "Explain the concept of gravity.",
+        "chosen": "Gravity is a force that attracts objects with mass toward each other.",
+        "rejected": "중력은 물체를 서로 끌어당기는 힘이다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into French: 'She always arrives on time.'",
+        "chosen": "Elle arrive toujours à l'heure.",
+        "rejected": "Sie kommt immer pünktlich.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "fr",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 태양계는 태양과 그 주위를 도는 행성들로 이루어져 있다.",
+        "chosen": "태양계는 태양과 행성들로 구성된다.",
+        "rejected": "The solar system includes the sun and planets.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "¿Qué es la fotosíntesis?",
+        "chosen": "La fotosíntesis es el proceso por el cual las plantas convierten la luz solar en energía.",
+        "rejected": "Photosynthesis is how plants turn sunlight into energy.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize: 'Electric cars reduce carbon emissions compared to gasoline vehicles.'",
+        "chosen": "Electric cars emit less carbon than gasoline cars.",
+        "rejected": "전기차는 휘발유차보다 탄소 배출이 적다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "请问地球自转一周需要多长时间？",
+        "chosen": "地球自转一周大约需要24小时.",
+        "rejected": "The Earth takes about 24 hours to rotate once.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into German: 'The weather is sunny today.'",
+        "chosen": "Das Wetter ist heute sonnig.",
+        "rejected": "Le temps est ensoleillé aujourd'hui.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "de",
+        "task": "translation"
+    },
+    {
+        "input": "Explica el papel de los volcanes en la formación de la Tierra.",
+        "chosen": "Los volcanes contribuyeron a la formación de la atmósfera y la superficie terrestre.",
+        "rejected": "Volcanoes helped form the Earth's atmosphere and surface.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize this: 'Regular exercise improves cardiovascular health and reduces stress.'",
+        "chosen": "Regular exercise benefits heart health and lowers stress.",
+        "rejected": "운동은 심장 건강을 좋게 하고 스트레스를 줄인다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "请翻译：'她喜欢在周末旅行.'",
+        "chosen": "She likes to travel on weekends.",
+        "rejected": "Elle aime voyager le week-end.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "Was ist der Zweck von Impfungen?",
+        "chosen": "Impfungen dienen dazu, das Immunsystem gegen Krankheiten zu stärken.",
+        "rejected": "Vaccines help the immune system fight diseases.",
+        "preferred": 1,
+        "input_lang": "de",
+        "expected_lang": "de",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into Korean: 'He is a talented musician.'",
+        "chosen": "그는 재능 있는 음악가입니다.",
+        "rejected": "Il est un musicien talentueux.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "ko",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 빛은 직진하며, 반사나 굴절을 통해 방향이 바뀔 수 있다.",
+        "chosen": "빛은 직진하며 반사나 굴절로 방향이 변한다.",
+        "rejected": "Light moves in a straight line and changes direction by reflection or refraction.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "What is the main function of the liver?",
+        "chosen": "The liver filters toxins from the blood and aids in digestion.",
+        "rejected": "Le foie filtre les toxines du sang et aide à la digestion.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Traduce al español: 'The children are playing in the park.'",
+        "chosen": "Los niños están jugando en el parque.",
+        "rejected": "Les enfants jouent dans le parc.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "es",
+        "task": "translation"
+    },
+    {
+        "input": "请总结这段话：人工智能在医疗领域的应用可以提高诊断准确性。",
+        "chosen": "人工智能提高了医疗诊断的准确性.",
+        "rejected": "AI improves accuracy in medical diagnoses.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    },
+    {
+        "input": "Explain the difference between a meteor and a meteorite.",
+        "chosen": "A meteor is a space rock burning in the atmosphere, while a meteorite is one that reaches the ground.",
+        "rejected": "Ein Meteor ist ein Himmelskörper, der in der Atmosphäre verglüht, während ein Meteorit den Boden erreicht.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into French: 'They are planning a trip to Europe next summer.'",
+        "chosen": "Ils préparent un voyage en Europe pour l'été prochain.",
+        "rejected": "Sie planen eine Reise nach Europa im nächsten Sommer.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "fr",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 지구 온난화는 극지방의 빙하를 녹이고 해수면을 상승시킨다.",
+        "chosen": "지구 온난화는 빙하를 녹이고 해수면을 높인다.",
+        "rejected": "Global warming melts ice and raises sea levels.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "¿Qué es la energía renovable?",
+        "chosen": "La energía renovable es aquella que se obtiene de fuentes naturales que se reponen por sí solas.",
+        "rejected": "Renewable energy comes from sources that replenish naturally.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize this: 'Reading books can improve vocabulary and critical thinking skills.'",
+        "chosen": "Reading enhances vocabulary and critical thinking.",
+        "rejected": "책 읽기는 어휘력과 비판적 사고를 향상시킨다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "请翻译：'他喜欢在晚上散步.'",
+        "chosen": "He likes to take walks in the evening.",
+        "rejected": "Er geht gerne abends spazieren.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "Was ist ein Regenbogen?",
+        "chosen": "Ein Regenbogen ist ein optisches Phänomen, das durch Brechung von Licht in Wassertropfen entsteht.",
+        "rejected": "A rainbow is caused by light refracting through water droplets.",
+        "preferred": 1,
+        "input_lang": "de",
+        "expected_lang": "de",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into Japanese: 'She enjoys cooking for her family.'",
+        "chosen": "彼女は家族のために料理をするのが大好きです.",
+        "rejected": "Elle aime cuisiner pour sa famille.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "ja",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 식물은 광합성을 통해 이산화탄소를 흡수하고 산소를 방출한다.",
+        "chosen": "식물은 광합성으로 이산화탄소를 흡수하고 산소를 내보낸다.",
+        "rejected": "Plants absorb CO2 and release oxygen during photosynthesis.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "What is the role of the United Nations in international conflicts?",
+        "chosen": "The United Nations works to resolve conflicts and promote peace among nations.",
+        "rejected": "Die Vereinten Nationen arbeiten daran, Konflikte zu lösen und Frieden zu fördern.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Traduce al español: 'The museum is closed on Mondays.'",
+        "chosen": "El museo está cerrado los lunes.",
+        "rejected": "Le musée est fermé le lundi.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "es",
+        "task": "translation"
+    },
+    {
+        "input": "请总结这段话：大数据分析可以帮助企业做出更明智的决策。",
+        "chosen": "大数据分析助力企业做出更明智的决策.",
+        "rejected": "Big data analysis helps companies make smarter decisions.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    },
+    {
+        "input": "Explain the concept of inertia.",
+        "chosen": "Inertia is an object's resistance to changes in its state of motion.",
+        "rejected": "Trägheit ist der Widerstand eines Objekts gegen Veränderungen seiner Bewegung.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into French: 'They are learning a new language together.'",
+        "chosen": "Ils apprennent une nouvelle langue ensemble.",
+        "rejected": "Sie lernen gemeinsam eine neue Sprache.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "fr",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 달은 지구 주위를 도는 자연 위성이며, 지구 조석 현상에 영향을 미친다.",
+        "chosen": "달은 지구의 자연 위성으로 조석 현상에 영향을 준다.",
+        "rejected": "The moon orbits Earth and affects tides.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+
+    {
+        "input": "Explain the importance of sleep for brain health.",
+        "chosen": "Sleep is essential for memory consolidation and cognitive function.",
+        "rejected": "Schlaf ist wichtig für das Gedächtnis und die Gehirnfunktion.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "请翻译：'她每天早上都喝咖啡.'",
+        "chosen": "She drinks coffee every morning.",
+        "rejected": "Elle boit du café chaque matin.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "Was ist die Funktion der Lunge?",
+        "chosen": "Die Lunge ist für die Atmung und den Gasaustausch verantwortlich.",
+        "rejected": "The lungs are responsible for breathing and gas exchange.",
+        "preferred": 1,
+        "input_lang": "de",
+        "expected_lang": "de",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into Japanese: 'He is reading a book in the library.'",
+        "chosen": "彼は図書館で本を読んでいます.",
+        "rejected": "Il lit un livre à la bibliothèque.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "ja",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 지구는 태양계 내에서 유일한 생명체가 존재하는 행성이다.",
+        "chosen": "지구는 태양계에서 생명체가 존재하는 유일한 행성이다.",
+        "rejected": "Earth is the only planet in the solar system with life.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "What is the role of enzymes in digestion?",
+        "chosen": "Enzymes break down food into nutrients that the body can absorb.",
+        "rejected": "Les enzymes décomposent les aliments en nutriments absorbables.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Traduce al español: 'The train leaves at 7 AM.'",
+        "chosen": "El tren sale a las 7 de la mañana.",
+        "rejected": "Le train part à 7 heures du matin.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "es",
+        "task": "translation"
+    },
+    {
+        "input": "请总结这段话：人工智能可以帮助医生更准确地诊断疾病。",
+        "chosen": "人工智能提高了疾病诊断的准确性.",
+        "rejected": "AI improves the accuracy of disease diagnosis.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    },
+    {
+        "input": "Explain the concept of photosynthesis.",
+        "chosen": "Photosynthesis is the process by which plants convert sunlight into energy.",
+        "rejected": "La photosynthèse est le processus par lequel les plantes transforment la lumière en énergie.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into French: 'They are going to the beach this weekend.'",
+        "chosen": "Ils vont à la plage ce week-end.",
+        "rejected": "Sie gehen dieses Wochenende an den Strand.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "fr",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 물은 모든 생명체의 생존에 필수적인 요소이다.",
+        "chosen": "물은 생명체 생존에 필수적이다.",
+        "rejected": "Water is essential for the survival of all living things.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "¿Qué es la gravedad?",
+        "chosen": "La gravedad es una fuerza que atrae objetos con masa entre sí.",
+        "rejected": "Gravity is a force that attracts objects with mass.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize this: 'Regular exercise can reduce the risk of chronic diseases.'",
+        "chosen": "Regular exercise lowers the risk of chronic diseases.",
+        "rejected": "운동은 만성 질환 위험을 줄인다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "请翻译：'他喜欢在晚上看电影.'",
+        "chosen": "He likes to watch movies at night.",
+        "rejected": "Il aime regarder des films le soir.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "Was ist ein Erdbeben?",
+        "chosen": "Ein Erdbeben ist eine plötzliche Erschütterung der Erdoberfläche.",
+        "rejected": "An earthquake is a sudden shaking of the Earth's surface.",
+        "preferred": 1,
+        "input_lang": "de",
+        "expected_lang": "de",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into Japanese: 'She is learning to play the piano.'",
+        "chosen": "彼女はピアノを習っています.",
+        "rejected": "Elle apprend à jouer du piano.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "ja",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 태양은 태양계 중심에 위치하며, 행성들에 빛과 열을 제공한다.",
+        "chosen": "태양은 태양계 중심에서 빛과 열을 제공한다.",
+        "rejected": "The sun is at the center of the solar system and provides light and heat.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "What is the function of the heart?",
+        "chosen": "The heart pumps blood throughout the body to supply oxygen and nutrients.",
+        "rejected": "Le cœur pompe le sang dans tout le corps pour fournir de l'oxygène et des nutriments.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Traduce al español: 'The meeting starts at 2 PM.'",
+        "chosen": "La reunión comienza a las 2 de la tarde.",
+        "rejected": "La réunion commence à 14 heures.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "es",
+        "task": "translation"
+    },
+    {
+        "input": "请总结这段话：大数据可以帮助企业更好地理解客户需求。",
+        "chosen": "大数据助力企业理解客户需求.",
+        "rejected": "Big data helps companies understand customer needs.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    },
+    {
+        "input": "Explain the concept of evolution.",
+        "chosen": "Evolution is the process of change in species over time through natural selection.",
+        "rejected": "L'évolution est le processus de changement des espèces au fil du temps par sélection naturelle.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into French: 'They are having a party tonight.'",
+        "chosen": "Ils font une fête ce soir.",
+        "rejected": "Sie feiern heute Abend eine Party.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "fr",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 지구는 자전축의 기울기로 인해 계절이 변화한다.",
+        "chosen": "지구의 자전축 기울기로 인해 계절이 변한다.",
+        "rejected": "Earth's axial tilt causes seasonal changes.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "¿Qué es la electricidad?",
+        "chosen": "La electricidad es el flujo de carga eléctrica, generalmente a través de un conductor.",
+        "rejected": "Electricity is the flow of electric charge, usually through a conductor.",
+        "preferred": 1,
+        "input_lang": "es",
+        "expected_lang": "es",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Summarize this: 'Reading books can improve empathy and social skills.'",
+        "chosen": "Reading enhances empathy and social skills.",
+        "rejected": "책 읽기는 공감 능력과 사회성을 향상시킨다.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "summary"
+    },
+    {
+        "input": "请翻译：'她喜欢在周末旅行.'",
+        "chosen": "She likes to travel on weekends.",
+        "rejected": "Elle aime voyager le week-end.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "en",
+        "task": "translation"
+    },
+    {
+        "input": "Was ist ein Magnetfeld?",
+        "chosen": "Ein Magnetfeld ist eine Region im Raum, in der magnetische Kräfte wirken.",
+        "rejected": "A magnetic field is a region where magnetic forces act.",
+        "preferred": 1,
+        "input_lang": "de",
+        "expected_lang": "de",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Translate into Japanese: 'He is writing a letter to his friend.'",
+        "chosen": "彼は友達に手紙を書いています.",
+        "rejected": "Il écrit une lettre à son ami.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "ja",
+        "task": "translation"
+    },
+    {
+        "input": "요약해줘: 달은 지구 주위를 도는 자연 위성이며, 지구 조석 현상에 영향을 미친다.",
+        "chosen": "달은 지구의 자연 위성으로 조석 현상에 영향을 준다.",
+        "rejected": "The moon orbits Earth and affects tides.",
+        "preferred": 1,
+        "input_lang": "ko",
+        "expected_lang": "ko",
+        "task": "summary"
+    },
+    {
+        "input": "What is the role of the United Nations in international conflicts?",
+        "chosen": "The United Nations works to resolve conflicts and promote peace among nations.",
+        "rejected": "Die Vereinten Nationen arbeiten daran, Konflikte zu lösen und Frieden zu fördern.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "en",
+        "task": "single_language_qa"
+    },
+    {
+        "input": "Traduce al español: 'The museum is closed on Mondays.'",
+        "chosen": "El museo está cerrado los lunes.",
+        "rejected": "Le musée est fermé le lundi.",
+        "preferred": 1,
+        "input_lang": "en",
+        "expected_lang": "es",
+        "task": "translation"
+    },
+    {
+        "input": "请总结这段话：大数据可以帮助企业更好地理解客户需求。",
+        "chosen": "大数据助力企业理解客户需求.",
+        "rejected": "Big data helps companies understand customer needs.",
+        "preferred": 1,
+        "input_lang": "zh",
+        "expected_lang": "zh",
+        "task": "summary"
+    }
+
+
+]

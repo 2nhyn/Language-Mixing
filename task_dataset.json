@@ -1,0 +1,1118 @@
+[
+    {
+        "task": "monolingual_qa",
+        "prompt": "What are the key differences between the Renaissance and the Enlightenment in European history, and how did they influence modern science?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the concept of 'emergence' in complex systems theory and provide an example from biology.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the concept of the nation-state evolve during the 19th century, and what role did nationalism play in European politics?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the economic theories of Adam Smith and Karl Marx, and how they shaped modern economic systems.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "What were the primary causes of the Cold War, and how did it influence global politics and military strategies?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Describe the artistic and architectural achievements of the Baroque period and their impact on European culture.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the printing press revolutionize the spread of knowledge during the Renaissance, and what were its long-term effects on literacy?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the principles of the Scientific Revolution and its key figures, such as Galileo and Kepler.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "What were the social and economic impacts of the Agricultural Revolution in Europe, and how did it pave the way for industrialization?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Describe the role of women in medieval European society, and how their status changed during the Renaissance.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the Enlightenment philosophers, such as Voltaire and Rousseau, challenge traditional authority and promote individual rights?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the causes and consequences of the Great Depression, and how it led to significant economic reforms in the United States.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "What were the key innovations of the Romantic movement in literature and art, and how did they reflect the era's social and political climate?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Describe the impact of the Viking expansions on European history, and how they influenced trade and cultural exchange.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the development of the steam engine contribute to the Industrial Revolution, and what were its broader implications for society?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the significance of the Battle of Waterloo and its role in ending the Napoleonic Wars.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "What were the main tenets of existentialism, and how did philosophers like Sartre and Camus contribute to this movement?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Describe the causes and effects of the Spanish Flu pandemic in the early 20th century, and how it compared to modern pandemics.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the Renaissance revive classical antiquity, and what were its major artistic and intellectual achievements?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the role of the United Nations in maintaining international peace and security since its founding.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "What were the key factors leading to the decline of the Ottoman Empire, and how did its fall reshape the Middle East?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Describe the cultural and technological advancements of the Song Dynasty in China and their influence on East Asian history.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the American Revolution inspire other independence movements around the world, and what were its core principles?",
+        "target_lang": "en"
+    },
+    
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the Industrial Revolution impact social structures in 19th-century Europe, and what were its long-term effects on urbanization?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the causes and consequences of the Thirty Years' War in Europe, and how it shaped the concept of nation-states.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "What were the main philosophical differences between Hobbes and Locke, and how did they influence modern political theory?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Describe the role of the Catholic Church during the Middle Ages and its impact on European education and culture.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the discovery of the New World affect European economies and global trade networks in the 16th century?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the scientific contributions of Isaac Newton and their influence on the development of physics.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "What were the key factors leading to the French Revolution, and how did it redefine the concept of citizenship?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Describe the artistic innovations of the Impressionist movement and its impact on modern art.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the Black Death shape European society, economy, and culture in the 14th century?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the principles of the Magna Carta and its significance in the development of constitutional law.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "What were the main goals of the Suffragette movement, and how did it contribute to women's rights in the 20th century?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Describe the causes and outcomes of the Russo-Japanese War and its impact on global power dynamics.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the Renaissance humanism movement influence literature and education in Europe?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the concept of the Divine Right of Kings and its role in European monarchies.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "What were the key technological advancements of the 18th century, and how did they contribute to the Industrial Revolution?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Describe the impact of the Protestant Reformation on European politics and religion.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the Age of Exploration lead to the colonization of the Americas, and what were its consequences for indigenous populations?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Explain the theories of Charles Darwin and their influence on the field of biology.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "What were the main causes of World War I, and how did it reshape the geopolitical landscape of Europe?",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Describe the cultural and intellectual achievements of the Harlem Renaissance and its impact on American society.",
+        "target_lang": "en"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "How did the fall of the Roman Empire contribute to the rise of feudalism in Europe?",
+        "target_lang": "en"
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "task": "monolingual_qa",
+        "prompt": "한국 전쟁 이후 한국의 경제 성장에 어떤 요인들이 주요하게 작용했나요?",
+        "target_lang": "ko"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "조선 시대의 과학 기술 발전 중 가장 주목할 만한 업적은 무엇인가요?",
+        "target_lang": "ko"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "한국 전통 음악인 국악의 특징과 역사적 배경을 설명해 주세요.",
+        "target_lang": "ko"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "한국 문학에서 이광수와 김동인의 작품이 가지는 의미는 무엇인가요?",
+        "target_lang": "ko"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "한국 사회의 유교적 전통이 현대에 미치는 영향은 무엇인가요?",
+        "target_lang": "ko"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "江戸時代における日本の文化と芸術の特徴を説明してください。",
+        "target_lang": "ja"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "明治維新が日本の近代化に与えた影響は何ですか？",
+        "target_lang": "ja"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "日本の伝統的な茶道の意義と歴史的背景を教えてください。",
+        "target_lang": "ja"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "村上春樹の文学作品が国際的に評価される理由は何ですか？",
+        "target_lang": "ja"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "日本のアニメ産業が世界的に成功した要因は何ですか？",
+        "target_lang": "ja"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "中国唐朝的文化和艺术成就有哪些？",
+        "target_lang": "zh"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "毛泽东的文化大革命对中国社会产生了哪些影响？",
+        "target_lang": "zh"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "中国传统节日中秋节的起源和意义是什么？",
+        "target_lang": "zh"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "中国四大发明对世界历史有哪些贡献？",
+        "target_lang": "zh"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "中国现代文学中鲁迅的作品有哪些主要主题？",
+        "target_lang": "zh"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Quelles sont les principales réalisations culturelles de la Renaissance française ?",
+        "target_lang": "fr"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Comment la Révolution française a-t-elle influencé les droits de l'homme en Europe ?",
+        "target_lang": "fr"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Quel est le rôle de Victor Hugo dans la littérature française du 19e siècle ?",
+        "target_lang": "fr"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Quels sont les impacts de l'Impressionnisme sur l'art moderne ?",
+        "target_lang": "fr"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Comment la construction de la Tour Eiffel a-t-elle marqué l'histoire de Paris ?",
+        "target_lang": "fr"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "¿Cuáles fueron los principales logros de la civilización maya en Mesoamérica?",
+        "target_lang": "es"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "¿Cómo influyó la Conquista de América en la historia global?",
+        "target_lang": "es"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "¿Cuál es el significado del Día de los Muertos en la cultura mexicana?",
+        "target_lang": "es"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "¿Quién fue Simón Bolívar y cuál fue su papel en la independencia de América Latina?",
+        "target_lang": "es"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "¿Cuáles son las características principales del realismo mágico en la literatura hispanoamericana?",
+        "target_lang": "es"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Quali sono stati i principali contributi di Leonardo da Vinci alla scienza e all'arte?",
+        "target_lang": "it"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Come ha influenzato il Rinascimento italiano la cultura europea?",
+        "target_lang": "it"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Qual è il significato della Commedia di Dante Alighieri nella letteratura italiana?",
+        "target_lang": "it"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Quali sono state le cause dell'unificazione italiana nel XIX secolo?",
+        "target_lang": "it"
+    },
+    {
+        "task": "monolingual_qa",
+        "prompt": "Come ha contribuito la cucina italiana alla cultura gastronomica mondiale?",
+        "target_lang": "it"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the significance of the Mid-Autumn Festival in Chinese culture? Answer in Spanish.",
+        "target_lang": "zh"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the role of the Bundestag in German politics. Answer in Japanese.",
+        "target_lang": "de"
+    },
+
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the significance of Diwali in Indian culture? Answer in French.",
+        "target_lang": "fr"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Explain the concept of 'hygge' in Danish culture. Answer in Italian.",
+        "target_lang": "it"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the role of the Emperor in modern Japanese society? Answer in Russian.",
+        "target_lang": "ru"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the importance of Carnival in Brazilian culture. Answer in German.",
+        "target_lang": "de"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the significance of the Great Wall of China in Chinese history? Answer in Arabic.",
+        "target_lang": "ar"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Explain the concept of 'saudade' in Portuguese culture. Answer in Korean.",
+        "target_lang": "ko"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the role of the Pope in the Catholic Church? Answer in Chinese (Mandarin).",
+        "target_lang": "zh"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the significance of the Eiffel Tower in French culture. Answer in Spanish.",
+        "target_lang": "es"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the importance of the Holi festival in Hindu culture? Answer in Japanese.",
+        "target_lang": "ja"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Explain the concept of 'gemütlichkeit' in German culture. Answer in French.",
+        "target_lang": "fr"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the role of the Dalai Lama in Tibetan Buddhism? Answer in Italian.",
+        "target_lang": "it"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the significance of the Sydney Opera House in Australian culture. Answer in Russian.",
+        "target_lang": "ru"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the importance of the Day of the Dead in Mexican culture? Answer in German.",
+        "target_lang": "de"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Explain the concept of 'wabi-sabi' in Japanese culture. Answer in Arabic.",
+        "target_lang": "ar"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the role of the Prime Minister in the UK government? Answer in Korean.",
+        "target_lang": "ko"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the significance of the Taj Mahal in Indian history. Answer in Chinese (Mandarin).",
+        "target_lang": "zh"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the importance of the Bastille Day in French history? Answer in Spanish.",
+        "target_lang": "es"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Explain the concept of 'lagom' in Swedish culture. Answer in Japanese.",
+        "target_lang": "ja"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the role of the Great Pyramid of Giza in Egyptian history? Answer in French.",
+        "target_lang": "fr"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the significance of the Carnival of Venice in Italian culture. Answer in Russian.",
+        "target_lang": "ru"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the importance of the Dragon Boat Festival in Chinese culture? Answer in German.",
+        "target_lang": "de"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Explain the concept of 'ubuntu' in African culture. Answer in Arabic.",
+        "target_lang": "ar"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the role of the President in the US government? Answer in Italian.",
+        "target_lang": "it"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the significance of the Acropolis in Greek history. Answer in Korean.",
+        "target_lang": "ko"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the importance of the Cherry Blossom Festival in Japanese culture? Answer in Chinese (Mandarin).",
+        "target_lang": "zh"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Explain the concept of 'duende' in Spanish culture. Answer in Spanish.",
+        "target_lang": "es"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the role of the Colosseum in Roman history? Answer in Japanese.",
+        "target_lang": "ja"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the significance of the Mona Lisa in art history. Answer in French.",
+        "target_lang": "fr"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the importance of the Thanksgiving holiday in American culture? Answer in Russian.",
+        "target_lang": "ru"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Explain the concept of 'fado' in Portuguese culture. Answer in German.",
+        "target_lang": "de"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the role of the Great Sphinx in Egyptian mythology? Answer in Arabic.",
+        "target_lang": "ar"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the significance of the Forbidden City in Chinese history. Answer in Italian.",
+        "target_lang": "it"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the importance of the Oktoberfest in German culture? Answer in Korean.",
+        "target_lang": "ko"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Explain the concept of 'mindfulness' in Buddhist philosophy. Answer in Chinese (Mandarin).",
+        "target_lang": "zh"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the role of the Louvre Museum in French culture? Answer in Spanish.",
+        "target_lang": "es"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the significance of the Great Barrier Reef in Australian ecology. Answer in Japanese.",
+        "target_lang": "ja"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the importance of the Cannes Film Festival in global cinema? Answer in French.",
+        "target_lang": "fr"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Explain the concept of 'cosplay' in Japanese pop culture. Answer in Russian.",
+        "target_lang": "ru"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "What is the role of the Red Square in Russian history? Answer in German.",
+        "target_lang": "de"
+    },
+    {
+        "task": "multilingual_qa",
+        "prompt": "Describe the significance of the Amazon Rainforest in global ecology. Answer in Arabic.",
+        "target_lang": "ar"
+    },    
+
+    
+
+
+
+
+
+
+
+
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to French: 'It's raining cats and dogs.'",
+        "target_lang": "fr"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this complex sentence to Russian: 'Despite the challenges, the team managed to complete the project ahead of schedule, thanks to their innovative approach and unwavering dedication.'",
+        "target_lang": "ru"
+    },
+
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Spanish: 'Break a leg.'",
+        "target_lang": "es"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to German: 'The early bird catches the worm.'",
+        "target_lang": "de"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Italian: 'Hit the sack.'",
+        "target_lang": "it"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to French: 'When it rains, it pours.'",
+        "target_lang": "fr"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Japanese: 'Let the cat out of the bag.'",
+        "target_lang": "ja"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Chinese: 'A penny saved is a penny earned.'",
+        "target_lang": "zh"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Russian: 'Cost an arm and a leg.'",
+        "target_lang": "ru"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Korean: 'Actions speak louder than words.'",
+        "target_lang": "ko"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Arabic: 'Bite off more than you can chew.'",
+        "target_lang": "ar"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Portuguese: 'The ball is in your court.'",
+        "target_lang": "pt"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Turkish: 'Burn the midnight oil.'",
+        "target_lang": "tr"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Hindi: 'Don't cry over spilled milk.'",
+        "target_lang": "hi"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to German: 'Piece of cake.'",
+        "target_lang": "de"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Spanish: 'Kill two birds with one stone.'",
+        "target_lang": "es"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to French: 'Under the weather.'",
+        "target_lang": "fr"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Italian: 'Let your hair down.'",
+        "target_lang": "it"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Japanese: 'On cloud nine.'",
+        "target_lang": "ja"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Chinese: 'The straw that broke the camel's back.'",
+        "target_lang": "zh"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Russian: 'Spill the beans.'",
+        "target_lang": "ru"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Korean: 'Think outside the box.'",
+        "target_lang": "ko"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Arabic: 'A blessing in disguise.'",
+        "target_lang": "ar"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Portuguese: 'Better late than never.'",
+        "target_lang": "pt"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Turkish: 'In the heat of the moment.'",
+        "target_lang": "tr"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Hindi: 'The apple doesn't fall far from the tree.'",
+        "target_lang": "hi"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to German: 'On the same page.'",
+        "target_lang": "de"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Spanish: 'A picture is worth a thousand words.'",
+        "target_lang": "es"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to French: 'Wrap your head around.'",
+        "target_lang": "fr"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Italian: 'The tip of the iceberg.'",
+        "target_lang": "it"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Japanese: 'Hit the nail on the head.'",
+        "target_lang": "ja"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Chinese: 'No pain, no gain.'",
+        "target_lang": "zh"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Russian: 'Once in a blue moon.'",
+        "target_lang": "ru"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Korean: 'The last straw.'",
+        "target_lang": "ko"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Arabic: 'Read between the lines.'",
+        "target_lang": "ar"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Portuguese: 'Take it with a grain of salt.'",
+        "target_lang": "pt"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to Turkish: 'See eye to eye.'",
+        "target_lang": "tr"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Hindi: 'To cut to the chase.'",
+        "target_lang": "hi"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate the following idiom to German: 'Throw in the towel.'",
+        "target_lang": "de"
+    },
+    {
+        "task": "translation",
+        "prompt": "Translate this sentence to Spanish: 'To get bent out of shape.'",
+        "target_lang": "es"
+    },
+
+
+
+
+
+    
+
+
+
+
+
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in German: 'Die Quantenmechanik ist eine grundlegende Theorie in der Physik, die das Verhalten von Materie und Strahlung auf der atomaren und subatomaren Skala beschreibt. Sie unterscheidet sich grundlegend von der klassischen Physik, da sie probabilistische Vorhersagen macht und Konzepte wie Superposition und Verschränkung einführt.'",
+        "target_lang": "de"
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Italian: 'L'intelligenza artificiale sta rivoluzionando il settore sanitario attraverso l’analisi predittiva, la diagnosi assistita e la personalizzazione delle terapie. Tuttavia, solleva anche questioni etiche relative alla privacy dei dati e alla responsabilità decisionale.'",
+        "target_lang": "it"
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Spanish: 'La fotosíntesis es el proceso por el cual las plantas convierten la luz solar en energía química.'",
+        "target_lang": "es",
+        "response": "Las plantas usan la fotosíntesis para transformar la luz solar en energía química."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in French: 'Le réchauffement climatique est causé principalement par les émissions de gaz à effet de serre, entraînant des changements environnementaux graves.'",
+        "target_lang": "fr",
+        "response": "Le réchauffement climatique, dû aux gaz à effet de serre, provoque des changements environnementaux majeurs."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Portuguese: 'A Amazônia é a maior floresta tropical do mundo, abrigando uma biodiversidade única.'",
+        "target_lang": "pt",
+        "response": "A Amazônia, maior floresta tropical, possui biodiversidade incomparável."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Russian: 'Космос представляет собой бескрайнее пространство за пределами Земли, наполненное звездами, планетами и галактиками.'",
+        "target_lang": "ru",
+        "response": "Космос – это пространство за Землей, содержащее звезды, планеты и галактики."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Japanese: '東京は日本の首都であり、世界で最も人口の多い都市の一つです。'",
+        "target_lang": "ja",
+        "response": "東京は日本の首都で、世界有数の人口を誇る都市です。"
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Chinese: '长城是中国古代为防御入侵而建造的巨型建筑，全长超过两万公里。'",
+        "target_lang": "zh",
+        "response": "长城是中国古代为防御而建的巨型建筑，总长超两万公里。"
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Arabic: 'الهرم الأكبر هو أحد عجائب الدنيا السبع، بني كمقبرة للفرعون خوفو.'",
+        "target_lang": "ar",
+        "response": "الهرم الأكبر، إحدى عجائب الدنيا، بني مقبرة للفرعون خوفو."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Hindi: 'ताज महल भारत के आगरा में स्थित एक सुंदर स्मारक है, जो मुग़ल सम्राट शाहजहाँ ने अपनी पत्नी की याद में बनवाया था।'",
+        "target_lang": "hi",
+        "response": "ताज महल, आगरा का सुंदर स्मारक, शाहजहाँ ने पत्नी की याद में बनवाया।"
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Turkish: 'Kapadokya, peri bacaları ve tarihi yeraltı şehirleriyle ünlü bir turizm merkezidir.'",
+        "target_lang": "tr",
+        "response": "Kapadokya, peri bacaları ve yeraltı şehirleriyle tanınan bir turizm merkezi."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Korean: '한글은 1443년에 창제된 한국의 고유 문자로, 과학적이고 배우기 쉬운 문자 체계로 유명합니다.'",
+        "target_lang": "ko",
+        "response": "한글은 1443년 창제된 과학적이고 배우기 쉬운 한국의 고유 문자입니다."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Dutch: 'Windmolens zijn een duurzame energiebron die wind omzet in elektriciteit, bijdragen aan hernieuwbare energie.'",
+        "target_lang": "nl",
+        "response": "Windmolens zetten wind om in elektriciteit en ondersteunen duurzame energie."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Swedish: 'Nordiska landskapet är känt för sina fjäll, skogar och sjöar, som erbjuder en unik naturupplevelse.'",
+        "target_lang": "sv",
+        "response": "Nordiska landskapet lockar med fjäll, skogar och sjöar för en unik naturupplevelse."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Polish: 'Warszawa, stolica Polski, jest ważnym politycznym i kulturalnym ośrodkiem kraju.'",
+        "target_lang": "pl",
+        "response": "Warszawa, stolica Polski, pełni kluczową rolę polityczną i kulturalną."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Greek: 'Η Ακρόπολη των Αθηνών είναι ένα από τα σημαντικότερα μνημεία της αρχαίας ελληνικής αρχιτεκτονικής.'",
+        "target_lang": "el",
+        "response": "Η Ακρόπολη των Αθηνών είναι κορυφαίο μνημείο αρχαίας ελληνικής αρχιτεκτονικής."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Hebrew: 'ים המלח הוא האגם מתחת לפני הים הנמוך ביותר בעולם, ידוע בריפוי מינרלים שלו.'",
+        "target_lang": "he",
+        "response": "ים המלח, האגם הנמוך בעולם, ידוע בתכונות הריפוי המינרליות שלו."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Thai: 'วัดพระแก้วเป็นวัดสำคัญทางประวัติศาสตร์ของไทย ตั้งอยู่ในกรุงรัตนโกสินทร์'",
+        "target_lang": "th",
+        "response": "วัดพระแก้วเป็นวัดสำคัญทางประวัติศาสตร์ของไทย ตั้งอยู่ในกรุงรัตนโกสินทร์."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Vietnamese: 'Vịnh Hạ Long là di sản thế giới UNESCO, nổi tiếng với hàng nghìn đảo đá vôi và cảnh quan tuyệt đẹp.'",
+        "target_lang": "vi",
+        "response": "Vịnh Hạ Long, di sản UNESCO, nổi tiếng với đảo đá vôi và cảnh quan đẹp."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Indonesian: 'Borobudur adalah candi Buddha terbesar di dunia, terletak di Magelang, Jawa Tengah.'",
+        "target_lang": "id",
+        "response": "Borobudur, candi Buddha terbesar dunia, berada di Magelang, Jawa Tengah."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Malay: 'Menara Kuala Lumpur adalah mercu tanda terkenal di Malaysia, menawarkan pemandangan kota yang menakjubkan.'",
+        "target_lang": "ms",
+        "response": "Menara Kuala Lumpur, mercu tanda Malaysia, tawarkan pemandangan kota menakjubkan."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Tagalog: 'Ang Mayon Volcano ay isang perpektong kulugong bulkan at isa sa mga aktibong bulkan sa Pilipinas.'",
+        "target_lang": "tl",
+        "response": "Ang Mayon Volcano ay perpektong kulugong bulkan at aktibo sa Pilipinas."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Persian: 'اصفهان نصف جهان است، شهری تاریخی با معماری خیره کننده و پل‌های زیبا.'",
+        "target_lang": "fa",
+        "response": "اصفهان، نصف جهان، شهری تاریخی با معماری و پل‌های زیبا."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Urdu: 'لعل قِلعه دہلی کا ایک مشہور تاریخی مقام ہے جو مغل بادشاہ شاہ جہان کی عورت خاص کے لیے بنوايا گیا تھا.'",
+        "target_lang": "ur",
+        "response": "لعل قِلعه، دہلی کا مشہور تاریخی مقام، شاہ جہان نے عورت خاص کے لیے بنوايا."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Bengali: 'সোনারগাঁও বাংলাদেশের একটি প্রাচীন শিল্পস্থলী, যেখানে বিশাল মूর্তিসমূহ রয়েছে।'",
+        "target_lang": "bn",
+        "response": "সোনারগাঁও, বাংলাদেশের প্রাচীন শিল্পস্থলী, বিশাল মূর্তিসমূহের জন্য প্রসিদ্ধ."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Tamil: 'மதுரை மீனாக்ஷி கோயில் தமிழ்நாடுவின் பிரசித்திபெற்ற கோயில், அதன் வாஸ்துகலை பிரபலம்.'",
+        "target_lang": "ta",
+        "response": "மதுரை மீனாக்ஷி கோயில், தமிழ்நாடுவின் பிரசித்திபெற்ற கோயில், வாஸ்துகலை பிரபலம்."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Telugu: 'చార్మినార్ హைదరాబాద్‌లోని ప్రసిద్ధ సాంస్కృతిక స్మారకం, తెగల కలాశాలితో ప్రసిద్ధి చెందింది.'",
+        "target_lang": "te",
+        "response": "చార్మినార్, హైదరాబాద్‌లోని ప్రసిద్ధ స్మారకం, తెగల కలాశాలితో ప్రసిద్ధి చెందింది."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Marathi: 'अजंठा लेणी भारतातील प्रसिद्ध बौद्ध गुहामंदिर, चित्रकला आणि शिल्पासाठी प्रसिद्ध.'",
+        "target_lang": "mr",
+        "response": "अजंठा लेणी, भारतातील प्रसिद्ध बौद्ध गुहामंदिर, चित्रकला आणि शिल्पासाठी प्रसिद्ध."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Gujarati: 'साबरमती अश्रम ગુજરાતમાં મહાત્મા ગાંધીનું પ્રથમ અશ્રમ છે, સ્વાતંત્ર્ય સંગ્રામનું કેન્દ્ર.'",
+        "target_lang": "gu",
+        "response": "સાબરમતી અશ્રમ, ગાંધીનું પ્રથમ અશ્રમ, સ્વાતંત્ર્ય સંગ્રામનું કેન્દ્ર."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Kannada: 'ಹಂಪಿ ಕರ್ನಾಟಕದಲ್ಲಿರುವ ಒಂದು ಐತಿಹಾಸಿಕ ನಗರ, ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ರಾಜಧಾನಿಯಾಗಿತ್ತು.'",
+        "target_lang": "kn",
+        "response": "ಹಂಪಿ, ಕರ್ನಾಟಕದ ಐತಿಹಾಸಿಕ ನಗರ, ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ರಾಜಧಾನಿ."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Malayalam: 'അതിരപ്പള്ളി ഒരു പ്രശസ്തമായ ഹिंदू ക്ഷേത്രമാണ്, കേരളത്തിലെ ഏറ്റവും വലിയ ഭാരതീയ ക്ഷേത്രങ്ങളില് ഒന്ന്.'",
+        "target_lang": "ml",
+        "response": "അതിരപ്പള്ളി, കേരളത്തിലെ ഏറ്റവും വലിയ ഹिंദു ക്ഷേത്രങ്ങളിൽ ഒന്ന്."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Welsh: 'Caernarfon Castle yw un o'r llechweddau mwya' symbolaidd yng Nghymru, adeiladwyd gan Edward I.'",
+        "target_lang": "cy",
+        "response": "Caernarfon Castle, adeiladwyd gan Edward I, yw symbol mwya' Cymru."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Irish: 'Tá Brú na Bóinne ceann de na síteanna aeolaíochta is tábhachtaí in Éirinn, dating back to the Neolithic period.'",
+        "target_lang": "ga",
+        "response": "Brú na Bóinne, súil aeolaíochta Néilíteach, ceann de na táibhreach is tábhachtaí in Éirinn."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Scottish Gaelic: 'Eilean Donan yw aon de na caistealan as aoibhneil ann an Alba, suiteach air Eilean Donan.'",
+        "target_lang": "gd",
+        "response": "Eilean Donan, aon de na caisteal as aoibhneil ann an Alba, suite air eilean beag."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Latvian: 'Rīgas Vecpilsēta ir UNESCO Pasaules mantojuma objekts, pazīstams ar savu arhitektūru.'",
+        "target_lang": "lv",
+        "response": "Rīgas Vecpilsēta, UNESCO mantojums, pazīstama ar arhitektūru."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Lithuanian: 'Vilniaus senamiestis yra viena iš didžiausių gyvenamųjų senamiestių Rytų Europoje, UNESCO paveldas.'",
+        "target_lang": "lt",
+        "response": "Vilniaus senamiestis, didžiausias Rytų Europos senamiestis, yra UNESCO paveldas."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Estonian: 'Tallinna vanalinn on UNESCO maailmapärandi loendis, keskajaloolise arhitektuuri eeskuju.'",
+        "target_lang": "et",
+        "response": "Tallinna vanalinn, UNESCO maailmapärand, on keskajaloolise arhitektuuri eeskuju."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Finnish: 'Suomenlinna on Helsingin saaristo, joka on UNESCO:n maailmanperintökohde ja suuri turistikohde.'",
+        "target_lang": "fi",
+        "response": "Suomenlinna, Helsingin saaristo, on UNESCO maailmanperintökohde ja suosittu turistipaikka."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Hungarian: 'Budavári Palota az egyik legjelentősebb történelmi épület Budapesten, magában foglalva több múzeumi kiállítást.'",
+        "target_lang": "hu",
+        "response": "Budavári Palota, Budapest jelentős történelmi épülete, több múzeumot tartalmaz."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Czech: 'Pražský hrad je největší starověký hradní komplex v Česku, sídlo prezidenta a národní kulturní památka.'",
+        "target_lang": "cs",
+        "response": "Pražský hrad, největší hradní komplex v ČR, je sídlem prezidenta a kulturní památkou."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Slovak: 'Vysok Tatry sú nejvyšší pohorje na Slovensku, známe pre svoju prírodnú krásu a turistické trasy.'",
+        "target_lang": "sk",
+        "response": "Vysoké Tatry, nejvyšší pohorje na Slovensku, lákají přírodní krásou a turistickými trasami."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Bulgarian: 'Риласки манастир е най-големият духовен комплекс в България, ЮНЕСКО културен споменик.'",
+        "target_lang": "bg",
+        "response": "Риласки манастир, най-големият в България, е ЮНЕСКО културен споменик."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this article in Romanian: 'Delta Dunării este cea mai mare deltă din Europa, rezervă a biosferei și destinație turistică populară.'",
+        "target_lang": "ro",
+        "response": "Delta Dunării, cea mai mare deltă europeană, este rezervă biosferei și atracție turistică."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this text in Serbian: 'Дјеврјачка црква у Студенцима je srednjovekovni spomenik u Srbiji, UNESCO lista svetskog nasleđa.'",
+        "target_lang": "sr",
+        "response": "Дјеврјачка црква, srednjovekovni spomenik u Srbiji, je na UNESCO listi svetskog nasleđa."
+    },
+    {
+        "task": "summarization",
+        "prompt": "Summarize this passage in Croatian: 'Plitvička jezera su nacionalni park u Hrvatskoj, poznati po jezerima i vodopadima, UNESCO nasljeđe.'",
+        "target_lang": "hr",
+        "response": "Plitvička jezera, hrvatski nacionalni park, poznati po jezerima i vodopadima, UNESCO nasljeđe."
+    },
+
+
+
+    
+
+
+
+
+
+
+
+    
+    {
+        "task": "mixed_prompt_case",
+        "prompt": "Explain the philosophical concept of 'wu wei' in Taoism and provide an example in French.",
+        "target_lang": "zh"
+    },
+    {
+        "task": "mixed_prompt_case",
+        "prompt": "Describe the plot of the Korean drama 'Crash Landing on You' in Arabic, focusing on the cultural differences between North and South Korea.",
+        "target_lang": "ko"
+    }
+]

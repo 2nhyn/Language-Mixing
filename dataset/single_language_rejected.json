@@ -1,0 +1,285 @@
+[
+  {
+    "prompt": "Explain the causes and consequences of the French Revolution, focusing on political, economic, and social aspects.",
+    "chosen": "The French Revolution was caused by political corruption, economic inequality, and social unrest. The consequences included the end of monarchy, rise of republicanism, and significant social reforms in France.",
+    "rejected": "La Révolution française a été déclenchée par la corruption politique, les inégalités économiques et les troubles sociaux. Elle a entraîné la chute de la monarchie et l'établissement de la république."
+  }, 
+  {
+      "prompt": "인공지능이 의료 분야에 미치는 영향에 대해 설명하고, 그로 인한 윤리적 쟁점들을 논의하시오.",
+      "chosen": "인공지능은 진단 정확도를 높이고, 맞춤형 치료를 가능하게 하며, 의료 접근성을 개선하는 데 기여합니다. 그러나 개인정보 보호, 알고리즘의 편향성, 의사의 역할 축소 등 윤리적 문제도 함께 제기됩니다.",
+      "rejected": "Artificial intelligence enhances diagnostic accuracy and enables personalized treatment, but raises concerns about privacy and biased algorithms."
+  },
+  {
+      "prompt": "Décrivez les effets du changement climatique sur la biodiversité marine.",
+      "chosen": "Le changement climatique provoque le réchauffement des océans, l'acidification de l'eau et la perte d'habitats, ce qui menace la biodiversité marine.",
+      "rejected": "Climate change causes ocean warming, acidification, and habitat loss, threatening marine biodiversity."
+  },
+  {
+      "prompt": "请分析城市化对农村地区经济和文化的影响。",
+      "chosen": "城市化促进了农村地区基础设施的发展和就业机会的增加，但也导致了文化传统的流失和人口结构的变化。",
+      "rejected": "Urbanization improves infrastructure and job opportunities in rural areas, but also causes cultural erosion and demographic shifts."
+  },
+  {
+      "prompt": "Describe the importance of the Amazon rainforest in regulating the Earth's climate.",
+      "chosen": "The Amazon rainforest plays a critical role in absorbing carbon dioxide, regulating temperatures, and maintaining global weather patterns.",
+      "rejected": "The Amazon rainforest plays a crucial role in global temperature regulation and CO₂ absorption."
+  },
+  {
+      "prompt": "日本の少子高齢化問題について、その社会的・経済的影響と対策を述べなさい。",
+      "chosen": "少子高齢化は労働力不足や年金制度の維持困難などの社会的・経済的課題を引き起こしています。解決策として、労働市場の多様化や移民受け入れ政策が検討されています。",
+      "rejected": "The aging population and low birthrate in Japan cause labor shortages and pension system difficulties. Solutions include immigration policies and flexible work arrangements."
+  },
+  {
+      "prompt": "Explique os impactos da globalização na cultura local das comunidades tradicionais.",
+      "chosen": "A globalização pode causar a perda de identidade cultural ao introduzir valores externos, mas também pode enriquecer a cultura local através da troca de ideias e tecnologias.",
+      "rejected": "Globalization can lead to cultural loss by introducing external values, but also enables cultural enrichment through technology and idea exchange."
+  },
+  {
+      "prompt": "Was sind die Hauptursachen für die globale Wasserknappheit und wie kann man dieses Problem lösen?",
+      "chosen": "Die Hauptursachen sind Klimawandel, Bevölkerungswachstum und ineffiziente Wassernutzung. Lösungen umfassen Wasserrecycling, effiziente Bewässerungssysteme und internationale Kooperation.",
+      "rejected": "The main causes of global water scarcity are climate change, overpopulation, and inefficient water use. Solutions include water recycling and smart irrigation systems."
+  },
+  {
+      "prompt": "Apresente os desafios enfrentados pelo sistema educacional nas regiões periféricas do Brasil.",
+      "chosen": "Os desafios incluem a falta de infraestrutura, escassez de professores qualificados e dificuldades de acesso à tecnologia.",
+      "rejected": "Challenges in Brazil's peripheral education system include poor infrastructure, lack of qualified teachers, and limited tech access."
+  },
+  {
+      "prompt": "대한민국의 출산율 저하 문제의 원인과 이를 해결하기 위한 정책 방안을 논하시오.",
+      "chosen": "출산율 저하의 원인은 고용 불안, 주거 문제, 육아 부담 등이며, 이를 해결하기 위해 정부는 육아 지원 확대와 일·가정 양립 정책을 강화하고 있습니다.",
+      "rejected": "The low birthrate in South Korea stems from job insecurity, housing issues, and parenting burdens. The government is promoting family-friendly policies."
+  },
+  {
+      "prompt": "Какова роль Красного Креста в гуманитарной помощи?",
+      "chosen": "Красный Крест играет критически важную роль в предоставлении гуманитарной помощи, обеспечивая поддержку в чрезвычайных ситуациях, медицинскую помощь и защиту уязвимых групп населения.",
+      "rejected": "The Red Cross plays a critical role in providing humanitarian aid, offering emergency support, medical assistance, and protection for vulnerable populations."
+  },
+
+
+  {
+    "prompt": "Explain how globalization has transformed modern education systems.",
+    "chosen": "Globalization has led to the internationalization of curricula, increased mobility of students and educators, and greater access to digital learning platforms across borders.",
+    "rejected": "La mondialisation a transformé les systèmes éducatifs en intégrant les programmes à l'échelle internationale et en facilitant l'apprentissage numérique."
+  },
+  {
+    "prompt": "중국의 일대일로(一带一路) 정책의 경제적 효과에 대해 논하시오.",
+    "chosen": "일대일로 정책은 중국의 해외 투자 확대와 무역 경로 다변화를 통해 참여국의 인프라 개선과 경제 성장을 도모하고 있습니다.",
+    "rejected": "The Belt and Road Initiative enhances China's investment expansion and trade diversification, fostering economic growth in participating countries."
+  },
+  {
+    "prompt": "Discuss the ethical implications of using AI in criminal justice systems.",
+    "chosen": "Using AI in criminal justice raises concerns about bias in algorithms, lack of transparency, and the potential violation of civil liberties.",
+    "rejected": "L'utilisation de l'IA dans la justice pénale soulève des inquiétudes quant aux biais algorithmiques, au manque de transparence et aux violations potentielles des libertés civiles."
+  },
+  {
+    "prompt": "다국적 기업이 국내 경제에 미치는 긍정적·부정적 영향을 비교하시오.",
+    "chosen": "다국적 기업은 일자리 창출과 기술 이전 측면에서 긍정적인 영향을 미치지만, 자본 유출과 중소기업 경쟁 심화와 같은 부정적인 영향도 존재합니다.",
+    "rejected": "Las empresas multinacionales crean empleos y transfieren tecnología, pero también causan fuga de capitales y competencia desleal para las PYMES."
+  },
+  {
+    "prompt": "请分析社交媒体对青少年心理健康的影响。",
+    "chosen": "社交媒体可能导致青少年产生焦虑、抑郁和自尊心下降的问题，同时也提供了社交支持和表达自我的平台。",
+    "rejected": "Los medios sociales afectan la salud mental de los adolescentes, causando ansiedad y baja autoestima, pero también ofrecen apoyo social y expresión personal."
+  },
+  {
+    "prompt": "简述中国近年来在环境保护方面采取的主要政策。",
+    "chosen": "中国近年来加强了对污染企业的监管，推进绿色能源发展，并出台了碳达峰与碳中和的目标。",
+    "rejected": "China has implemented policies promoting green energy, carbon neutrality, and pollution control in recent years."
+  },
+  {
+    "prompt": "4차 산업혁명 시대에 필요한 인재상에 대해 설명하시오.",
+    "chosen": "4차 산업혁명 시대에는 창의성, 융합적 사고, 데이터 분석 능력, 그리고 윤리적 판단력이 중요한 인재의 조건으로 떠오르고 있습니다.",
+    "rejected": "En la era de la Cuarta Revolución Industrial, la creatividad, el análisis de datos y el juicio ético son habilidades clave para los profesionales."
+  },
+  {
+    "prompt": "What are the environmental implications of deforestation in the Congo Basin?",
+    "chosen": "Deforestation in the Congo Basin has severe environmental implications, including loss of biodiversity, disruption of local climates, and increased carbon emissions contributing to global warming.",
+    "rejected": "La déforestation dans le bassin du Congo entraîne une perte de biodiversité, une perturbation des climats locaux et une augmentation des émissions de carbone."
+  },
+  {
+    "prompt": "Explain the role of the United Nations in promoting international peace and security.",
+    "chosen": "The United Nations plays a pivotal role in promoting international peace and security by facilitating diplomacy, mediating conflicts, and deploying peacekeeping missions to stabilize regions in crisis.",
+    "rejected": "Les Nations Unies jouent un rôle crucial dans la promotion de la paix et de la sécurité internationales en facilitant la diplomatie et en déployant des missions de maintien de la paix."
+  },
+  {
+    "prompt": "Beschreiben Sie die Auswirkungen der Industriellen Revolution auf die städtische Entwicklung.",
+    "chosen": "Die Industrielle Revolution führte zu einer massiven Urbanisierung, da Menschen vom Land in die Städte zogen, um Arbeit in Fabriken zu finden. Dies verursachte Überbevölkerung, schlechte Wohnbedingungen und die Notwendigkeit neuer Infrastruktur.",
+    "rejected": "La Revolución Industrial provocó una urbanización masiva, con migración del campo a la ciudad, sobrepoblación y malas condiciones de vida."
+  },
+  {
+    "prompt": "Обясните роль нефти в глобальной экономике.",
+    "chosen": "Нефть играет критически важную роль в глобальной экономике, являясь основным источником энергии для транспорта, промышленности и производства электроэнергии.",
+    "rejected": "Le pétrole joue un rôle crucial dans l'économie mondiale, étant la principale source d'énergie pour le transport et l'industrie."
+  },
+  {
+    "prompt": "Explain the cultural significance of the Chinese New Year.",
+    "chosen": "The Chinese New Year is a major cultural celebration that symbolizes renewal and family reunion, featuring traditions like dragon dances, fireworks, and the sharing of special foods.",
+    "rejected": "Le Nouvel An chinois symbolise le renouveau et la réunion familiale, avec des traditions comme les danses de dragons et les feux d'artifice."
+  },
+  {
+    "prompt": "Beschreib die Bedeutung der Renaissance für die europäische Kunst.",
+    "chosen": "Die Renaissance war eine Zeit der künstlerischen und intellektuellen Wiedergeburt in Europa, die realistische Darstellungen, Perspektive und humanistische Themen in der Kunst förderte.",
+    "rejected": "El Renacimiento fue un período de renacimiento artístico e intelectual en Europa, promoviendo el realismo y el humanismo en el arte."
+  },
+
+
+
+  {
+    "prompt": "Décrivez l'impact de la colonisation sur les cultures autochtones.",
+    "chosen": "La colonisation a eu un impact dévastateur sur les cultures autochtones, entraînant la perte de langues, de traditions et de terres, ainsi que l'imposition de systèmes de valeurs étrangers.",
+    "rejected": "The colonization had a devastating impact on indigenous cultures, leading to language loss, cultural erosion, and land dispossession."
+  },
+  {
+    "prompt": "Spiega il ruolo della NATO nella sicurezza globale.",
+    "chosen": "La NATO è un'alleanza militare che mira a garantire la sicurezza collettiva dei suoi membri attraverso la difesa mutua e la cooperazione nella prevenzione dei conflitti.",
+    "rejected": "La OTAN desempeña un papel crucial en la seguridad global mediante la defensa mutua y la cooperación internacional."
+  },
+  {
+    "prompt": "什么是量子计算及其潜在应用？",
+    "chosen": "量子计算利用量子比特来执行复杂计算，其潜在应用包括密码破解、药物发现和优化复杂系统。",
+    "rejected": "Quantum computing uses qubits for complex calculations, with applications in cryptography, drug discovery, and system optimization."
+  },
+  {
+    "prompt": "何が日本の茶道の文化的意義ですか？",
+    "chosen": "日本の茶道は、調和、敬意、純粋さなどの価値観を体現しており、日本の文化と精神性の重要な側面を表しています。",
+    "rejected": "La ceremonia del té japonesa encarna valores como la armonía, el respeto y la pureza, reflejando la espiritualidad japonesa."
+  },
+  {
+    "prompt": "Какова роль ЮНЕСКО в сохранении мирового наследия?",
+    "chosen": "ЮНЕСКО играет ключевую роль в сохранении мирового наследия, идентифицируя, защищая и пропагандируя культурные и природные объекты мировой значимости.",
+    "rejected": "UNESCO plays a vital role in preserving world heritage by identifying and protecting cultural and natural sites globally."
+  },
+  {
+    "prompt": "What are the cultural implications of the Harlem Renaissance?",
+    "chosen": "The Harlem Renaissance had profound cultural implications, fostering African American artistic expression, challenging racial stereotypes, and laying the groundwork for the civil rights movement.",
+    "rejected": "El Renacimiento de Harlem fomentó la expresión artística afroamericana y sentó las bases del movimiento por los derechos civiles."
+  },
+  {
+    "prompt": "Wie hat die Erfindung des Buchdrucks die Gesellschaft verändert?",
+    "chosen": "Die Erfindung des Buchdrucks revolutionierte die Gesellschaft, indem sie Wissen zugänglich machte, die Bildung förderte und die Verbreitung von Ideen während der Renaissance beschleunigte.",
+    "rejected": "La invención de la imprenta revolucionó la sociedad al democratizar el conocimiento y acelerar la difusión de ideas."
+  },
+  {
+    "prompt": "Как влияние ислама на искусство и архитектуру?",
+    "chosen": "Ислам оказал глубокое влияние на искусство и архитектуру, поощряя создание сложной геометрии, каллиграфии и величественных сооружений, таких как мечети и мавзолеи.",
+    "rejected": "L'islam a profondément influencé l'art et l'architecture, avec des motifs géométriques complexes et des édifices majestueux comme les mosquées."
+  },
+  {
+    "prompt": "何がインドの独立運動の主要な要因でしたか？",
+    "chosen": "インドの独立運動の主要な要因は、イギリスによる経済的搾取、文化的抑圧、そしてマハトマ・ガンディーやネルーなどの指導者の台頭でした。",
+    "rejected": "La lucha por la independencia de la India se debió a la explotación británica, la opresión cultural y el liderazgo de figuras como Gandhi."
+  },
+
+
+  {
+    "prompt": "Wie beeinflusst die Photosynthese das Ökosystem?",
+    "chosen": "Die Photosynthese ist grundlegend für das Ökosystem, da sie Kohlendioxid in Sauerstoff umwandelt, organische Verbindungen erzeugt und die Grundlage der Nahrungskette bildet.",
+    "rejected": "La photosynthèse est fondamentale pour l'écosystème car elle convertit le dioxyde de carbone en oxygène, produit des composés organiques et forme la base de la chaîne alimentaire."
+  },
+  {
+    "prompt": "Qual è l'impatto dell'arte rinascimentale sulla cultura moderna?",
+    "chosen": "L'arte rinascimentale ha avuto un impatto profondo sulla cultura moderna, promuovendo l'umanesimo, influenzando l'architettura e stabilendo standard artistici che persistono ancora oggi.",
+    "rejected": "Renaissance art has had a profound impact on modern culture, promoting humanism, influencing architecture, and setting artistic standards that still persist today."
+  },
+  
+  {
+    "prompt": "기후 변화가 해양 생태계에 미치는 영향에 대해 설명하시오.",
+    "chosen": "기후 변화는 해양 온도 상승, 산성화, 생물 다양성 감소 등을 초래하며, 이는 해양 생태계의 균형을 심각하게 위협합니다.",
+    "rejected": "Climate change causes ocean warming, acidification, and biodiversity loss, which threaten marine ecosystems severely."
+  },
+  {
+    "prompt": "4차 산업혁명이 일자리에 미치는 영향과 대응 방안을 논의하시오.",
+    "chosen": "4차 산업혁명은 자동화와 인공지능의 도입으로 일자리 감소를 초래하지만, 동시에 새로운 직업을 창출하고 재교육의 기회를 제공합니다.",
+    "rejected": "The 4th Industrial Revolution leads to job losses due to automation and AI, but also creates new jobs and requires reskilling."
+  },
+  {
+    "prompt": "글로벌 공급망의 불안정성이 세계 경제에 미치는 영향은 무엇인가?",
+    "chosen": "글로벌 공급망의 불안정성은 물가 상승, 생산 차질, 무역 감소 등을 초래하며, 세계 경제의 불확실성을 증대시킵니다.",
+    "rejected": "Global supply chain instability causes inflation, production disruptions, and trade reductions, increasing economic uncertainty worldwide."
+  },
+  {
+    "prompt": "디지털 격차가 사회 불평등에 미치는 영향에 대해 논하시오.",
+    "chosen": "디지털 격차는 교육, 고용, 의료 등 다양한 분야에서 불평등을 심화시키며, 특히 저소득층과 고령자에게 부정적인 영향을 미칩니다.",
+    "rejected": "The digital divide exacerbates inequality in education, employment, and healthcare, particularly affecting low-income and elderly populations."
+  },
+  {
+    "prompt": "재생 에너지 확대가 환경과 경제에 미치는 영향은 무엇인가?",
+    "chosen": "재생 에너지 확대는 온실가스 감축과 환경 보호에 기여하지만, 초기 투자 비용과 기술적 한계 등의 과제도 동반합니다.",
+    "rejected": "Renewable energy expansion contributes to greenhouse gas reduction and environmental protection, but faces challenges like high initial costs and technological limitations."
+  },
+  {
+    "prompt": "소셜 미디어가 청소년의 정신 건강에 미치는 영향에 대해 논의하시오.",
+    "chosen": "소셜 미디어는 청소년의 사회적 연결을 증진시키지만, 동시에 불안, 우울증, 자존감 저하 등의 문제를 유발할 수 있습니다.",
+    "rejected": "Social media enhances social connections among teenagers but can also cause anxiety, depression, and low self-esteem."
+  },
+  {
+    "prompt": "인구 고령화가 사회 복지 시스템에 미치는 영향은 무엇인가?",
+    "chosen": "인구 고령화는 연금 및 의료 비용 증가를 초래하며, 사회 복지 시스템의 지속 가능성을 위협합니다.",
+    "rejected": "Aging populations increase pension and healthcare costs, threatening the sustainability of social welfare systems."
+  },
+  {
+    "prompt": "기술 발전이 교육 방식에 미치는 변화에 대해 설명하시오.",
+    "chosen": "기술 발전은 온라인 학습, 맞춤형 교육, 가상 현실 등을 통해 교육 방식을 혁신하고 접근성을 높입니다.",
+    "rejected": "Technological advancements revolutionize education through online learning, personalized education, and virtual reality, enhancing accessibility."
+  },
+  {
+    "prompt": "국제 이주가 문화 다양성과 사회 통합에 미치는 영향은 무엇인가?",
+    "chosen": "국제 이주는 문화 다양성을 증진시키지만, 동시에 사회적 갈등과 통합의 과제를 동반합니다.",
+    "rejected": "International migration promotes cultural diversity but also brings social conflicts and integration challenges."
+  },
+  {
+    "prompt": "금융 기술(Fintech)이 전통적 금융 산업에 미치는 영향에 대해 논하시오.",
+    "chosen": "금융 기술은 결제 시스템을 혁신하고 금융 서비스 접근성을 높이지만, 보안 및 규제 문제도 함께 제기됩니다.",
+    "rejected": "Fintech revolutionizes payment systems and increases financial accessibility, but raises security and regulatory concerns."
+  },
+  {
+    "prompt": "도시화가 환경에 미치는 부정적 영향과 해결 방안을 논의하시오.",
+    "chosen": "도시화는 환경 오염, 생물 다양성 감소, 자원 고갈 등을 초래하며, 지속 가능한 도시 계획이 필요합니다.",
+    "rejected": "Urbanization causes environmental pollution, biodiversity loss, and resource depletion, requiring sustainable urban planning."
+  },
+  {
+    "prompt": "인공지능이 예술 창작에 미치는 영향에 대해 설명하시오.",
+    "chosen": "인공지능은 예술 창작의 새로운 가능성을 열지만, 창작자의 독창성과 저작권 문제에 대한 논쟁을 불러일으킵니다.",
+    "rejected": "AI opens new possibilities in art creation but sparks debates over originality and copyright issues."
+  },
+  {
+    "prompt": "세계화가 지역 문화에 미치는 영향은 무엇인가?",
+    "chosen": "세계화는 문화 교류를 촉진시키지만, 동시에 지역 문화의 동질화와 전통의 상실을 초래할 수 있습니다.",
+    "rejected": "Globalization promotes cultural exchange but can lead to cultural homogenization and loss of traditions."
+  },
+  {
+    "prompt": "사이버 보안 위협이 기업과 개인에 미치는 영향에 대해 논하시오.",
+    "chosen": "사이버 보안 위협은 데이터 유출, 재정적 손실, 개인정보 침해 등을 초래하며, 강력한 보안 조치가 필요합니다.",
+    "rejected": "Cybersecurity threats cause data breaches, financial losses, and privacy violations, requiring robust security measures."
+  },
+  {
+    "prompt": "지속 가능한 농업이 환경과 경제에 미치는 영향은 무엇인가?",
+    "chosen": "지속 가능한 농업은 환경 보호와 자원 보전에 기여하지만, 생산성 저하와 비용 증가의 위험도 있습니다.",
+    "rejected": "Sustainable agriculture contributes to environmental protection and resource conservation but risks lower productivity and higher costs."
+  },
+  {
+    "prompt": "가상 현실(VR) 기술이 교육과 엔터테인먼트에 미치는 영향에 대해 설명하시오.",
+    "chosen": "가상 현실 기술은 몰입형 학습과 새로운 엔터테인먼트 경험을 제공하지만, 건강 및 중독 문제도 함께 제기됩니다.",
+    "rejected": "VR technology provides immersive learning and new entertainment experiences but raises health and addiction concerns."
+  },
+  {
+    "prompt": "국제 무역 협정이 개발도상국에 미치는 영향은 무엇인가?",
+    "chosen": "국제 무역 협정은 개발도상국의 경제 성장을 촉진시키지만, 동시에 불평등한 조건과 종속의 위험도 있습니다.",
+    "rejected": "International trade agreements promote economic growth in developing countries but can lead to unequal terms and dependency."
+  },
+  {
+    "prompt": "로봇 공학의 발전이 제조업에 미치는 영향에 대해 논하시오.",
+    "chosen": "로봇 공학의 발전은 생산성을 높이고 위험한 작업을 대체하지만, 일자리 감소와 기술 격차의 문제를 동반합니다.",
+    "rejected": "Advances in robotics increase productivity and replace hazardous jobs but cause job losses and skill gaps."
+  },
+  {
+    "prompt": "디지털 통화가 전통적 화폐 시스템에 미치는 영향은 무엇인가?",
+    "chosen": "디지털 통화는 거래 속도를 높이고 금융 포용성을 증진시키지만, 변동성과 규제 문제도 함께 제기됩니다.",
+    "rejected": "Digital currencies increase transaction speed and financial inclusion but face volatility and regulatory challenges."
+  },
+  {
+    "prompt": "기후 변화 대응 정책이 경제 성장에 미치는 영향에 대해 설명하시오.",
+    "chosen": "기후 변화 대응 정책은 장기적으로 지속 가능한 성장을 촉진시키지만, 단기적으로는 비용 증가의 부담이 있습니다.",
+    "rejected": "Climate change policies promote long-term sustainable growth but impose short-term cost burdens."
+  }
+]
